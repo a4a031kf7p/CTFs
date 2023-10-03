@@ -326,7 +326,7 @@ About the Alien_autospy.jpg, just do a Google search for.
 
 ![alien_search](img/alien_search.png)
 
-3. ## Privilege escalation
+## 3. Privilege escalation
 
 james@agent-sudo:~$ sudo -l
  - The sudo -l command is used to list the privileges or permissions that a user has on a Unix-like operating system when using the sudo command. 
